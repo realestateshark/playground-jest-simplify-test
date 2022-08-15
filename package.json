@@ -1,0 +1,23 @@
+{
+  "name": "jest-simplify-test",
+  "version": "1.0.0",
+  "description": "Playground Jest simplify test",
+  "main": "Controller.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immosolve/playground-jest-simplify-test-mario.git"
+  },
+  "author": "Mario Schillermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immosolve/playground-jest-simplify-test-mario/issues"
+  },
+  "homepage": "https://github.com/immosolve/playground-jest-simplify-test-mario#readme"
+}
